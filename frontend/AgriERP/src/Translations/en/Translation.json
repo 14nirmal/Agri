@@ -1,0 +1,49 @@
+{
+    "navmenu-1": "Home",
+    "navmenu-2": "Farm Management",
+    "navmenu-3": "Financials",
+    "navmenu-4": "Inventory",
+    "navmenu-5": "Weather",
+    "navmenu-6": "Market Price",
+    "navmenu-7": "Dashboard",
+    "login": "Login",
+    "logout": "Logout",
+
+    
+   
+      "hero_title": "Simplify Farm Management For Every Farmer",
+      "hero_description": "Streamline your farming operations with AgriERP, the all-in-one solution for managing crops, livestock, and resources. Increase efficiency and productivity with real-time data and smart analytics.",
+      "get_started": "Get Started",
+    
+      
+        "quick_links": "Quick Links",
+        "home": "Home",
+        "farm_management": "Farm Management",
+        "financials": "Financials",
+        "inventory": "Inventory",
+        "weather": "Weather",
+        "market_price": "Market Price",
+        "about_us": "About us",
+        "contact_us": "Contact us",
+        "follow_us": "Follow Us",
+        "about_agrierp": "About AgriERP",
+        "about_text": "AgriERP is a comprehensive platform designed to simplify farm management. It offers tools for tracking financials, managing inventory, monitoring weather, and keeping up with market prices, all in one place. Our goal is to empower farmers with the data and insights they need to make informed decisions and enhance productivity.",
+        "copyright": "© 2025 AgriERP. All rights reserved.",
+      
+        
+          "key_features": "Key Features",
+          "crop_planning": "Crop Planning",
+          "crop_planning_desc": "Plan and track your crop cycles with intelligent scheduling and reminders",
+          "weather_monitoring": "Weather Monitoring",
+          "weather_monitoring_desc": "Get accurate weather forecasts and alerts for better planning.",
+          "inventory_management": "Inventory Management",
+          "inventory_management_desc": "Keep track of seeds, fertilizers, and equipment with real-time inventory updates",
+          "financial_tracking": "Financial Tracking",
+          "financial_tracking_desc": "Monitor expenses, revenue, and profitability with detailed financial reports"
+          
+
+          
+        
+
+  }
+  

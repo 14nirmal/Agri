@@ -1,0 +1,32 @@
+node index.js
+npm run dev
+
+
+git clone https://github.com/darshan1799/AgriERP.git
+git clone --branch frontend --single-branch https://github.com/darshan1799/AgriERP.git
+git clone --branch backend --single-branch https://github.com/darshan1799/AgriERP.git
+
+npm install
+
+
+npm run dev -- --host 0.0.0.0
+npm run dev -- --host
+
+
+admin : nirmalpatel93280@gmail.com
+	9328027421
+
+user : 9328027421
+	12345678
+
+
+
+
+
+
+
+
+
+
+
+
